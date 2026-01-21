@@ -9,4 +9,8 @@ This addon is a MODification of the BulkMail2 for **World of Warcraft (WoW) 1.14
   </p>
   <br>
   
-## ✨ New Features
+## ✨ Changes
+  -- Fixed it to work on Solocraft server.
+  
+## ✨ Bugs
+  -- When auto-send is interrupted because a destination character’s mailbox is full, the queue will contain incorrect destinations. Close and reopen the mailbox to fix it.
