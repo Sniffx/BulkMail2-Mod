@@ -23,3 +23,5 @@ This addon is a MODification of the BulkMail2 for **World of Warcraft (WoW) 1.14
   
 ## ✨ Bugs
   -- When auto-send is interrupted because a destination character’s mailbox is full, the queue will contain incorrect destinations. Close and reopen the mailbox to fix it.
+
+  -- If using Postal addon, disable: BlackBook -> AutoFill last person mailed
