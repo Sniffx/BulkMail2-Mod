@@ -13,7 +13,7 @@ This addon is a MODification of the BulkMail2 for **World of Warcraft (WoW) 1.14
   -- Fixed it to work on Solocraft server.
 
 ## ✨ How to use
--- Click on the "B" icon at the right side of the mailbox (only visible when we are in the Send tab).
+-- Click on the "B" icon at the right side of the Mailbox (only visible when we are in the "Send Mail" tab).
 
 -- Add a Destination.
 
